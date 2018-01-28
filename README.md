@@ -1,2 +1,2 @@
-# akrade-com
+# Akrade
 Tracks updates to Akrade corporate website.
